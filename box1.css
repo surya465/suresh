@@ -1,0 +1,26 @@
+.s1{
+  border: 5px solid black;
+  display: flex;
+  border-radius: 20px;
+}
+.s2{
+  display: flex;
+  border: 5px solid black;
+  border-radius: 20px;
+  color: red;
+  background-color: yellow;
+}
+.s3{
+  display: flex;
+  border: 5px solid black;
+  border-radius: 20px;
+  color: red;
+  background-color: yellow;
+}
+.s4{
+  display: flex;
+  border: 5px solid black;
+  border-radius: 20px;
+  color: red;
+  background-color: yellow;
+}
